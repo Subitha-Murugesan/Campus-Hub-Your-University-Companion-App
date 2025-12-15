@@ -9,10 +9,38 @@ pnpm-debug.log*
 dist/
 build/
 
-# Environment variables
+# Environment variables & Secrets
 .env
 .env.local
 .env.*.local
+.env.production
+.env.development
+
+# Password & Credential Files
+*.password
+*.passwd
+*.pwd
+*.credentials
+*.creds
+*.secret
+.passwords/
+secrets/
+credentials/
+
+# Private Keys
+*.key
+*.pem
+*.p12
+*.pkcs12
+*.jks
+private_key*
+
+# API Keys & Tokens
+*.token
+*.apikey
+*.api_key
+api_keys.json
+tokens.json
 
 # IDE
 .vscode/
@@ -20,6 +48,7 @@ build/
 *.swp
 *.swo
 *~
+.DS_Store/
 
 # OS
 .DS_Store
@@ -31,3 +60,5 @@ Thumbs.db
 
 # Misc
 *.log
+*.tmp
+temp/
