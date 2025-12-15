@@ -244,7 +244,6 @@ npm run preview      # Preview production build locally
 - **GitHub Repository**: https://github.com/Subitha-Murugesan/Campus-Hub-Your-University-Companion-App
 - **Live Site**: https://campushub-99096.web.app
 - **Deployment Guide**: [DEPLOY_FIREBASE.md](./DEPLOY_FIREBASE.md)
-- **Design**: [Figma Project](https://www.figma.com/design/ko6knepiXQUHp0sak3VlW5/University-Student-App-Screens)
 
 **Last Updated**: December 15, 2025  
 **Status**: ✅ Production Ready
