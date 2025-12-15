@@ -194,8 +194,4 @@ Steps to use this workflow:
 - Create a Firebase service account JSON and add it to `FIREBASE_SERVICE_ACCOUNT` (store the JSON as a secret string)
 - Push to `main` branch — the action will build and deploy
 
----
-
-**Security recommendation**
-- Client-side API keys are exposed in built code. For sensitive operations, create a secure server endpoint (Cloud Function or other) and keep server secrets in environment variables not bundled into the client.
 
