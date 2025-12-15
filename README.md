@@ -4,6 +4,8 @@ A comprehensive, modern web application for students and staff at Friedrich-Alex
 
 **GitHub Repository**: [Subitha-Murugesan/Campus-Hub-Your-University-Companion-App](https://github.com/Subitha-Murugesan/Campus-Hub-Your-University-Companion-App)  
 **Live Site**: [https://campushub-99096.web.app](https://campushub-99096.web.app)
+<img width="652" height="773" alt="image" src="https://github.com/user-attachments/assets/05a6ca41-1c5b-41cb-9e2c-945b731b968d" />
+
 
 ## ✨ Features
 
@@ -18,12 +20,24 @@ A comprehensive, modern web application for students and staff at Friedrich-Alex
 - **Temperature Voting** - Smart building climate control via user preferences
 - **Cleaning Schedule** - Optimized cleaning schedules for staff
 - **Admin Analytics** - Comprehensive campus analytics and insights
+<img width="303" height="740" alt="student" src="https://github.com/user-attachments/assets/fb0ffea6-1a4c-42d8-aa83-d7b1ca100073" />
+<img width="301" height="778" alt="Lecturer" src="https://github.com/user-attachments/assets/e8b2f2b0-56fb-4775-95e8-74979099370b" />
+<img width="225" height="766" alt="staff" src="https://github.com/user-attachments/assets/4b6b72a4-ad40-4e1c-839f-d5a025f8d217" />
+<img width="219" height="655" alt="clea" src="https://github.com/user-attachments/assets/dac916a9-761e-4043-b8d4-3128991a1ab1" />
+<img width="228" height="712" alt="admin" src="https://github.com/user-attachments/assets/e44c4219-82ed-445f-946a-ed7d11cdfe32" />
+<img width="231" height="773" alt="system" src="https://github.com/user-attachments/assets/053856aa-4913-4c01-a011-ffad00d69d6b" />
+<img width="228" height="701" alt="sya" src="https://github.com/user-attachments/assets/e5cb72b8-6e8b-4bea-9b8a-26642b818da1" />
+
 
 ### 🤖 AI Chatbot Assistant (Lara)
 - Intelligent campus assistant powered by Google Gemini AI
 - Answers academic and campus-related questions
 - Real-time conversation with natural language understanding
 - Assists with library, navigation, courses, facilities, and more
+
+  <img width="371" height="481" alt="image" src="https://github.com/user-attachments/assets/4c00f96f-ba8b-480c-a9a4-b558891157dc" />
+  
+
 
 ## 🚀 Quick Start
 
@@ -220,6 +234,7 @@ npm run preview      # Preview production build locally
 
 - **Subitha Murugesan** - Developer & Project Lead
 - **GitHub**: [@Subitha-Murugesan](https://github.com/Subitha-Murugesan)
+- **LinkedIn**: [@Subitha-Murugesan](https://www.linkedin.com/in/subitha-murugesan/)
 - **Repository**: [Campus-Hub-Your-University-Companion-App](https://github.com/Subitha-Murugesan/Campus-Hub-Your-University-Companion-App)
 
 ## 📚 Resources
