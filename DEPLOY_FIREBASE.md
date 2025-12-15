@@ -199,11 +199,3 @@ Steps to use this workflow:
 **Security recommendation**
 - Client-side API keys are exposed in built code. For sensitive operations, create a secure server endpoint (Cloud Function or other) and keep server secrets in environment variables not bundled into the client.
 
----
-
-If you'd like, I can:
-- Add the GitHub Actions workflow file to this repo
-- Configure environment variables for CI
-- Set up a serverless function to proxy the Gemini requests securely
-
-Tell me which of the above you'd like me to do next and I will implement it for you.
