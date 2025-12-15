@@ -4,6 +4,7 @@ A comprehensive, modern web application for students and staff at Friedrich-Alex
 
 **GitHub Repository**: [Subitha-Murugesan/Campus-Hub-Your-University-Companion-App](https://github.com/Subitha-Murugesan/Campus-Hub-Your-University-Companion-App)  
 **Live Site**: [https://campushub-99096.web.app](https://campushub-99096.web.app)
+
 <img width="652" height="773" alt="image" src="https://github.com/user-attachments/assets/05a6ca41-1c5b-41cb-9e2c-945b731b968d" />
 
 
@@ -20,6 +21,7 @@ A comprehensive, modern web application for students and staff at Friedrich-Alex
 - **Temperature Voting** - Smart building climate control via user preferences
 - **Cleaning Schedule** - Optimized cleaning schedules for staff
 - **Admin Analytics** - Comprehensive campus analytics and insights
+  
 <img width="303" height="740" alt="student" src="https://github.com/user-attachments/assets/fb0ffea6-1a4c-42d8-aa83-d7b1ca100073" />
 <img width="301" height="778" alt="Lecturer" src="https://github.com/user-attachments/assets/e8b2f2b0-56fb-4775-95e8-74979099370b" />
 <img width="225" height="766" alt="staff" src="https://github.com/user-attachments/assets/4b6b72a4-ad40-4e1c-839f-d5a025f8d217" />
